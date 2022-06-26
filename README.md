@@ -1,7 +1,7 @@
 # Clima-API
  Projeto usando Navigator.Geolocation com [Weather API](https://github.com/jhowbhz/weather-api)
 
- [Site para queira Testar]()
+ [Site para queira Testar](https://diovanealves.github.io/Weather-API/)
 
 # Novas implementações
 - [X] Geolocalização usando Navigator.Geolocation
